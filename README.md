@@ -1,5 +1,7 @@
 # Mini-FAT
-- python code to create a Mini-FAT with some commands (md, rd, cls, touch, del, nano, help, cd, ipconfig, quit, type, import, export, copy, move, dir, date, rename) to control on your file system
+- Python code to create a Mini-FAT with this commands (md, rd, cls, touch, del, nano, help, cd, ipconfig, quit, type, import, export, copy, move, dir, date, rename) to get access to your file system.
+
+- You will find the file system created with your project files after you run this python code.
 
 # Commands
 1- cd:                   this tool uses to change directory.
@@ -38,4 +40,3 @@
 
 18- quit:                this tool uses shut down the shell.
 
-- if the file system doesn't exist the program will create it in your project path
